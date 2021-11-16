@@ -6,7 +6,7 @@ excerpt: 'We show that the previous theory for the formation of the buffer zone 
 date: 2020-06-01
 venue: 'Journal of the Atmospheric Sciences'
 paperurl: 'https://journals.ametsoc.org/view/journals/atsc/77/6/JAS-D-19-0293.1.xml'
-citation: 'Match, A., S. Fueglistaler, 2020: &quot;Mean flow damping forms the buffer zone of the Quasi-Biennial Oscillation: 1D theory.&quot; <i>Journal of the Atmospheric Sciences<i>, 77, 1955-67, https://journals.ametsoc.org/view/journals/atsc/77/6/JAS-D-19-0293.1.xml'
+citation: 'Match, A., S. Fueglistaler, 2020: &quot;Mean flow damping forms the buffer zone of the Quasi-Biennial Oscillation: 1D theory.&quot; <i>Journal of the Atmospheric Sciences</i>, 77, 1955-67, https://journals.ametsoc.org/view/journals/atsc/77/6/JAS-D-19-0293.1.xml'
 ---
 
 [Link](https://journals.ametsoc.org/view/journals/atsc/77/6/JAS-D-19-0293.1.xml)
