@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 
-[AMatch_CV_Nov2021.pdf](https://github.com/aaronlmatch/aaronlmatch.github.io/files/7549471/AMatch_CV_Nov2021.pdf)
+[AMatch_CV_Nov2021.pdf](https://github.com/aaronlmatch/aaronlmatch.github.io/files/7549471/AMatch_CV_Aug2021.pdf)
 
