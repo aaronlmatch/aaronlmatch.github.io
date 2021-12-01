@@ -16,7 +16,7 @@ I help bring climate science directly to the public with my colleagues at [Clima
 
 **Happenings**
 
-December 2021: Began my NSF Postdoctoral Fellowship in Atmospheric and Geoscpace Sciences working with Ed Gerber at NYU
+December 2021: Began my NSF Postdoctoral Fellowship in Atmospheric and Geospace Sciences working with Ed Gerber at NYU
 
 December 2021: The final paper from my Ph.D. work with Stephan Fueglistaler is out in Journal of Climate: &quot;Large Internal Variability Dominates over Global Warming Signal in Observed Lower Stratospheric QBO Amplitude&quot;. [Link](https://doi.org/10.1175/JCLI-D-21-0270.1)
 
