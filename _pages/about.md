@@ -16,6 +16,8 @@ I help bring climate science directly to the public with my colleagues at [Clima
 
 **Happenings**
 
+January 2022: Our climate science communication tour with [Climate Up Close](https://www.climateupclose.org/) in Florida's Forgotten Coast reached hundreds of folks in Port St. Joe, Eastpoint, Tallahassee, and Apalachicola. [Local news coverage](https://www.franklincounty.news/stories/scientists-share-facts-not-lectures-on-climate-change,7309?fbclid=IwAR2PnxwtJstkWW31NRKfU1W74Kpj3t8vPF5Z561OtiTbtgmVqHoGFjSnBQA#.Yd7188Flhb4.facebook)
+
 December 2021: Began my NSF Postdoctoral Fellowship in Atmospheric and Geospace Sciences working with Ed Gerber at NYU
 
 December 2021: The final paper from my Ph.D. work with Stephan Fueglistaler is out in Journal of Climate: &quot;Large Internal Variability Dominates over Global Warming Signal in Observed Lower Stratospheric QBO Amplitude&quot;. [Link](https://doi.org/10.1175/JCLI-D-21-0270.1)
