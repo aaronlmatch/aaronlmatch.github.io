@@ -16,6 +16,8 @@ I help bring climate science directly to the public with my colleagues at [Clima
 
 **Happenings**
 
+January 2022: Presented an invited talk on "The Buffer Zone of the QBO: Theory of Formation and Future Projections" at the 21st Conference on the Middle Atmosphere at the 2022 AMS Annual Meeting. 
+
 January 2022: Our climate science communication tour with [Climate Up Close](https://www.climateupclose.org/) in Florida's Forgotten Coast reached hundreds of folks in Port St. Joe, Eastpoint, Tallahassee, Wakulla Springs, and Apalachicola. [Local news coverage](https://www.franklincounty.news/stories/scientists-share-facts-not-lectures-on-climate-change,7309?fbclid=IwAR2PnxwtJstkWW31NRKfU1W74Kpj3t8vPF5Z561OtiTbtgmVqHoGFjSnBQA#.Yd7188Flhb4.facebook)
 
 December 2021: Began my NSF Postdoctoral Fellowship in Atmospheric and Geospace Sciences working with Ed Gerber at NYU
