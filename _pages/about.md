@@ -16,7 +16,7 @@ I help bring climate science directly to the public with my colleagues at [Clima
 
 **Happenings**
 
-March 2022: [Climate Up Close](https://www.climateupclose.org/) presented to the [Good Food Institute](https://gfi.org/), a non-profit working to accelerate the alternative protein industry.
+March 2022: Climate Up Close presented to the Good Food Institute, a non-profit working to accelerate the alternative protein industry.
 
 March 2022: Presented my Ph.D. work on "The Unified Internal Dynamics and Global Interactions of the Quasi-Biennial Oscillation" to my new colleagues at the NYU Center for Atmosphere Ocean Science.
 
