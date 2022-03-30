@@ -16,6 +16,8 @@ I help bring climate science directly to the public with my colleagues at [Clima
 
 **Happenings**
 
+March 2022: [Climate Up Close](https://www.climateupclose.org/) presented to the [Good Food Institute](https://gfi.org/), a non-profit working to accelerate the alternative protein industry.
+
 March 2022: Presented my Ph.D. work on "The Unified Internal Dynamics and Global Interactions of the Quasi-Biennial Oscillation" to my new colleagues at the NYU Center for Atmosphere Ocean Science.
 
 February 2022: Co-presented a climate outreach talk "Setting climate activism in a broader context of environmental and social action" at Chisuk Emuna Congregation in Harrisburg, PA along with Ben Schaffer and Emma Ignaszewski.
