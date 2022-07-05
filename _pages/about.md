@@ -16,6 +16,8 @@ I help bring climate science directly to the public with my colleagues at [Clima
 
 **Happenings**
 
+June 2022: Presented "The Decade the Quasi-Biennial Oscillation Faltered: Have disruptions provoked a crisis in QBO science?" at 23rd Conference on Atmospheric and Oceanic Fluid Dynamics in Breckenridge, CO, USA. [Recording](https://ams.confex.com/ams/23FLUID/meetingapp.cgi/Session/61874)
+
 March 2022: Climate Up Close presented to the Good Food Institute, a non-profit working to accelerate the alternative protein industry.
 
 March 2022: Presented my Ph.D. work on "The Unified Internal Dynamics and Global Interactions of the Quasi-Biennial Oscillation" to my new colleagues at the NYU Center for Atmosphere Ocean Science.
