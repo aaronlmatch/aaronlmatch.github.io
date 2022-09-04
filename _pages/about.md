@@ -16,7 +16,7 @@ I help bring climate science directly to the public with my colleagues at [Clima
 
 **Happenings**
 
-August 2022: Presented "Ozone at Spectroclim: Why does ozone have an interior maximum? How does ozone respond to global warming?" at workshop on From Spectrocscopy to Climate at Princeton University.
+August 2022: Presented "Ozone at Spectroclim: Why does ozone have an interior maximum? How does ozone respond to global warming?" at _From Spectroscopy to Climate_ hosted by the Princeton University Center for Theoretical Science.
 
 August 2022: [Climate Up Close](https://www.climateupclose.org/) toured Central New Jersey, with public events at the Somerset County Environmental Education Center and Princeton Friends Meeting. 
 
