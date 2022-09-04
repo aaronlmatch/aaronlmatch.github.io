@@ -16,6 +16,8 @@ I help bring climate science directly to the public with my colleagues at [Clima
 
 **Happenings**
 
+August 2022: Presented "Ozone at Spectroclim: Why does ozone have an interior maximum? How does ozone respond to global warming?" at workshop on From Spectrocscopy to Climate at Princeton University.
+
 August 2022: [Climate Up Close](https://www.climateupclose.org/) toured Central New Jersey, with public events at the Somerset County Environmental Education Center and Princeton Friends Meeting. 
 
 June 2022: Presented "The Decade the Quasi-Biennial Oscillation Faltered: Have disruptions provoked a crisis in QBO science?" at 23rd Conference on Atmospheric and Oceanic Fluid Dynamics in Breckenridge, CO, USA. [Recording](https://ams.confex.com/ams/23FLUID/meetingapp.cgi/Session/61874)
