@@ -16,6 +16,8 @@ I help bring climate science directly to the public with my colleagues at [Clima
 
 **Happenings**
 
+October 2022: First paper from my postdoc is out: Match, A., E.P. Gerber, 2022: *Tropospheric expansion under global warming reduces tropical lower stratospheric ozone*. Geophysical Research Letters. 49, 19, 1-12. [doi](https://doi.org/10.1029/2022GL099463)
+
 August 2022: Presented "Ozone at Spectroclim: Why does ozone have an interior maximum? How does ozone respond to global warming?" at _From Spectroscopy to Climate_ hosted by the Princeton University Center for Theoretical Science.
 
 August 2022: [Climate Up Close](https://www.climateupclose.org/) toured Central New Jersey, with public events at the Somerset County Environmental Education Center and Princeton Friends Meeting. 
