@@ -5,6 +5,10 @@ permalink: /papers/
 author_profile: true
 ---
 
+**2022**
+
+**A. Match**, E.P. Gerber, 2022: *Tropospheric expansion under global warming reduces tropical lower stratospheric ozone*. Geophysical Research Letters, 49, 19, 1-12. [[doi]]( https://doi.org/10.1029/2022GL099463)
+
 
 **2021**
 
