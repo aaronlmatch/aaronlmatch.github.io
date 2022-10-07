@@ -22,7 +22,7 @@ August 2022: Presented "Ozone at Spectroclim: Why does ozone have an interior ma
 
 August 2022: [Climate Up Close](https://www.climateupclose.org/) toured Central New Jersey, with public events at the Somerset County Environmental Education Center and Princeton Friends Meeting. 
 
-June 2022: Presented "The Decade the Quasi-Biennial Oscillation Faltered: Have disruptions provoked a crisis in QBO science?" at 23rd Conference on Atmospheric and Oceanic Fluid Dynamics in Breckenridge, CO, USA. [Recording from AMS](https://ams.confex.com/ams/23FLUID/meetingapp.cgi/Session/61874) [Recording on Youtube](https://www.youtube.com/watch?v=kwhydxxBtnM)
+June 2022: Presented "The Decade the Quasi-Biennial Oscillation Faltered: Have disruptions provoked a crisis in QBO science?" at 23rd Conference on Atmospheric and Oceanic Fluid Dynamics in Breckenridge, CO, USA. [Recording from AMS](https://ams.confex.com/ams/23FLUID/meetingapp.cgi/Session/61874)|[Recording on Youtube](https://www.youtube.com/watch?v=kwhydxxBtnM)
 
 March 2022: Climate Up Close presented to the Good Food Institute, a non-profit working to accelerate the alternative protein industry.
 
