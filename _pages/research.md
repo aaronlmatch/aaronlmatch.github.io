@@ -26,6 +26,7 @@ From its discovery in the 1950s until 2016, the Quasi-Biennial Oscillation was h
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kwhydxxBtnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 Citation: **A. Match**, S. Fueglistaler, 2021: *Anomalous dynamics of QBO disruptions explained by 1D theory with external triggering*. Journal of the Atmospheric Sciences, 78, 2, 373-383. [[doi]](https://journals.ametsoc.org/view/journals/atsc/78/2/jas-d-20-0172.1.xml?tab_body=abstract-display)
 
 
