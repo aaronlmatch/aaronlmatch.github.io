@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-My name is Aaron Match. I am an atmospheric scientist with a focus on stratospheric dynamics and climate science. I am an NSF Postdoctoral Research Fellow in Atmospheric and Geospace Sciences working with Professor Ed Gerber at New York University. 
+My name is Aaron Match. I am an atmospheric scientist with a focus on stratospheric dynamics, stratospheric chemistry, and climate science. I am an NSF Postdoctoral Research Fellow in Atmospheric and Geospace Sciences working with Professor Ed Gerber at New York University. My work revisits mechanistic explanations for complex results through the analysis of paradigmatic models.
 
-I defended my Ph.D. in Atmospheric and Oceanic Sciences at Princeton University advised by Stephan Fueglistaler in April 2021. My dissertation was titled: &quot;The Unified Internal Dynamics and Global Interactions of the Quasi-Biennial Oscillation&quot;. Before coming to Princeton, I completed a B.S. in Atmospheric Sciences at Cornell University. I am originally from Harrisburg, PA, where I gained an early appreciation for model uncertainty when striving to forecast a week in advance when I would be able to build snow forts.
+During my post-doc, I have been analyzing the ozone response to global warming. Prevailing explanations of ozone reductions in the tropical lower stratosphere under global warming focus on the role of strengthening upwelling. Yet, by coupling together Chapman photochemistry with a leaky tropical pipe and a zero-ozone tropopause condition, we show (here at SPARC) that the ozone reductions are also driven at leading order by tropospheric expansion.
 
-I help bring climate science directly to the public with my colleagues at [Climate Up Close](http://www.climateupclose.org).
+My Ph.D. is in Atmospheric and Oceanic Sciences from Princeton University advised by Stephan Fueglistaler, where we revisited why the Quasi-Biennial Oscillation vanishes below 70 hPa. The accepted interpretation of the classical QBO model was found to rely on circular reasoning concerning the lower boundary condition. Breaking the circularity revealed that the QBO in the lowermost stratosphere is damped by lateral momentum exchange.
+
+I perform climate outreach with colleagues through [Climate Up Close](https://www.climateupclose.org/).
 
 **Happenings**
 
