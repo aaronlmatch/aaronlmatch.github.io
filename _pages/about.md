@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Aaron Match. I am an atmospheric scientist with a focus on stratospheric dynamics, stratospheric chemistry, and climate science. I am an NSF Postdoctoral Research Fellow in Atmospheric and Geospace Sciences working with Professor Ed Gerber at New York University. My work revisits mechanistic explanations for complex results through the analysis of paradigmatic models.
+I am Aaron Match, an atmospheric scientist with a focus on stratospheric dynamics, stratospheric chemistry, and climate science. I am an NSF Postdoctoral Research Fellow in Atmospheric and Geospace Sciences working with Professor Ed Gerber at New York University. My work revisits mechanistic explanations for complex results through the analysis of paradigmatic models.
 
-During my post-doc, I have been analyzing the ozone response to global warming. Prevailing explanations of ozone reductions in the tropical lower stratosphere under global warming focus on the role of strengthening upwelling. Yet, by coupling together Chapman photochemistry with a leaky tropical pipe and a zero-ozone tropopause condition, we show (here at SPARC) that the ozone reductions are also driven at leading order by tropospheric expansion.
+During my post-doc, I have been analyzing the ozone response to global warming. Prevailing explanations of ozone reductions in the tropical lower stratosphere under global warming focus on the role of strengthening upwelling. Yet, by coupling together Chapman photochemistry with a leaky tropical pipe and a zero-ozone tropopause condition, we show that the ozone reductions are also driven at leading order by tropospheric expansion.
 
 My Ph.D. is in Atmospheric and Oceanic Sciences from Princeton University advised by Stephan Fueglistaler, where we revisited why the Quasi-Biennial Oscillation vanishes below 70 hPa. The accepted interpretation of the classical QBO model was found to rely on circular reasoning concerning the lower boundary condition. Breaking the circularity revealed that the QBO in the lowermost stratosphere is damped by lateral momentum exchange.
 
