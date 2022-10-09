@@ -15,8 +15,7 @@ I defended my Ph.D. dissertation in April 2021, titled "The Unified Internal Dyn
 
 The ozone layer absorbs ultraviolet light otherwise harmful to life. Due to compliance with the Montreal Protocol, the ozone layer is generally recovering from depletion. But, at the same time, global warming is predicted to impact ozone, increasing ozone in the upper stratosphere and decreasing ozone in the tropical lower stratosphere. These decreases are typically argued to result from a strengthening of tropical stratospheric upwelling under global warming. Yet, this paper shows that in addition to contributions from strengthening upwelling, much of the ozone loss arises from a deepening of the troposphere under global warming. The deepening of the troposphere erodes the ozone layer from below, with the low ozone anomalies in the eroded region subsequently transported upwards by the background upwelling. Deepening of the troposphere therefore helps to explain the predicted ozone reductions throughout the tropical lower stratosphere.
 
-![Image](https://github.com/aaronlmatch/aaronlmatch.github.io/images/synthesize_model_results_CMIP6.pdf)
-
+![Decomposing ozone response](images/synthesize_model_results_CMIP6.pdf)
 
 Citation: **A. Match**, E.P. Gerber, 2022: *Tropospheric expansion under global warming reduces tropical lower stratospheric ozone*. Geophysical Research Letters, 49, 19, 1-12. [[doi]]( https://doi.org/10.1029/2022GL099463)
 
