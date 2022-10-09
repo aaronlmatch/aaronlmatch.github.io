@@ -12,5 +12,5 @@ I defended my Ph.D. dissertation in April 2021, titled "The Unified Internal Dyn
 
 
 [![test]
-()]
+(aofd_thumbnail.png)]
 (https://www.youtube.com/watch?v=kwhydxxBtnM&t=16s)
