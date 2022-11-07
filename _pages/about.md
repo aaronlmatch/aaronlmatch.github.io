@@ -18,7 +18,7 @@ I perform climate outreach with colleagues through [Climate Up Close](https://ww
 
 **Happenings**
 
-November 20022: Visited Professor Peter Hitchcock and numerous undergraduate mentors at the Earth and Atmospheric Sciences department at Cornell University, where I presented recent work: "Understanding how stratospheric ozone responds to global warming".
+November 2022: Visited Professor Peter Hitchcock and numerous undergraduate mentors at the Earth and Atmospheric Sciences department at Cornell University, where I presented recent work: "Understanding how stratospheric ozone responds to global warming".
 
 October 2022: Presented a poster, "Understanding the stratospheric ozone response to global warming", at the SPARC General Assembly (Boulder hub).
 
