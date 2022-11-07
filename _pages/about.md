@@ -18,6 +18,8 @@ I perform climate outreach with colleagues through [Climate Up Close](https://ww
 
 **Happenings**
 
+November 20022: Visited Professor Peter Hitchcock and numerous undergraduate mentors at the Earth and Atmospheric Sciences department at Cornell University, where I presented recent work: "Understanding how stratospheric ozone responds to global warming".
+
 October 2022: Presented a poster, "Understanding the stratospheric ozone response to global warming", at the SPARC General Assembly (Boulder hub).
 
 September 2022: First paper from my postdoc is out: Match, A., E.P. Gerber, 2022: *Tropospheric expansion under global warming reduces tropical lower stratospheric ozone*. Geophysical Research Letters. 49, 19, 1-12. [doi](https://doi.org/10.1029/2022GL099463)
