@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Aaron Match, an atmospheric scientist with a focus on stratospheric dynamics, stratospheric chemistry, and climate science. I am an NSF Postdoctoral Research Fellow in Atmospheric and Geospace Sciences working with Professor Ed Gerber at New York University. My work revisits mechanistic explanations for complex results through the analysis of paradigmatic models.
+I am an atmospheric scientist with a focus on stratospheric dynamics, stratospheric chemistry, and climate science. I am an NSF Postdoctoral Research Fellow in Atmospheric and Geospace Sciences working with Professor Ed Gerber at New York University. My work revisits mechanistic explanations for complex results through the analysis of paradigmatic models.
 
 During my post-doc, I have been analyzing the ozone response to global warming. Prevailing explanations of ozone reductions in the tropical lower stratosphere under global warming focus on the role of strengthening upwelling. Yet, by coupling together Chapman photochemistry with a leaky tropical pipe and a zero-ozone tropopause condition, we show that the ozone reductions are also driven at leading order by tropospheric expansion.
 
