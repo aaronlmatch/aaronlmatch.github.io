@@ -18,6 +18,8 @@ I perform climate outreach with colleagues through [Climate Up Close](https://ww
 
 **Happenings**
 
+December 2022: Presented a talk at the AGU Fall Meeting entitled "Revisiting the ozone response to global warming" in the session on Stratospheric and Tropospheric Composition Changes: Observations and Modeling of Special Events, Feedback Mechanisms, and Long-Term Trends.
+
 November 2022: Presented at the Columbia University SEAS Colloquium in Climate Science: "Understanding how stratospheric ozone responds to global warming". Thanks to Simon Lee and Lorenzo Polvani for helping arrange the visit.
 
 November 2022: Visited Professor Peter Hitchcock and numerous undergraduate mentors at the Earth and Atmospheric Sciences department at Cornell University, where I presented recent work: "Understanding how stratospheric ozone responds to global warming".
