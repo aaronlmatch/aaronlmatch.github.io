@@ -18,7 +18,7 @@ I perform climate outreach with colleagues through [Climate Up Close](https://ww
 
 **Happenings**
 
-February 2023: Presented "Revisiting simple models of ozone photochemistry: structure, self-healing, and sensitivity to global warming" to Harvard ClimaTea. Thanks to Stephen Bourguet for organizing the visit.
+February 2023: Presented "Revisiting simple models of ozone photochemistry: structure, self-healing, and sensitivity to global warming" at Harvard ClimaTea. Thanks to Stephen Bourguet for organizing the visit.
 
 December 2022: Presented a talk at the AGU Fall Meeting entitled "Revisiting the ozone response to global warming" in the session on Stratospheric and Tropospheric Composition Changes: Observations and Modeling of Special Events, Feedback Mechanisms, and Long-Term Trends.
 
