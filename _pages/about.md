@@ -18,6 +18,8 @@ I perform climate outreach with colleagues through [Climate Up Close](https://ww
 
 **Happenings**
 
+March 2023: Commenced a five-week academic tour around Europe by participating in the [QBO workshop](https://sites.google.com/view/qbo-workshop-march-2023) at Oxford. Gave a talk on the buffer zone of the QBO and its sensitivity to global warming. Thanks to the organizers for a splendid workshop!
+
 February 2023: Presented "Revisiting simple models of ozone photochemistry: structure, self-healing, and sensitivity to global warming" at Harvard ClimaTea. Thanks to Stephen Bourguet for organizing the visit.
 
 December 2022: Presented a talk at the AGU Fall Meeting entitled "Revisiting the ozone response to global warming" in the session on Stratospheric and Tropospheric Composition Changes: Observations and Modeling of Special Events, Feedback Mechanisms, and Long-Term Trends.
