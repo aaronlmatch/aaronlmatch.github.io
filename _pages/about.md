@@ -18,6 +18,8 @@ I perform climate outreach with colleagues through [Climate Up Close](https://ww
 
 **Happenings**
 
+April 2023: Presenting "Simple models stratospheric ozone photochemistry" while visiting numerous institutions around Europe, with many thanks to my hosts at each stop: University of Reading (Keith Shine), Cambridge University (Alison Ming), Max Planck Institute for Meteorology (Hauke Schmidt), Free University of Berlin (Stephan Pfahl), and Institute of Atmospheric Physics and the University of Munich (Thomas Birner and Hella Garny).
+
 March 2023: Commenced a five-week academic tour around Europe by participating in the [QBO workshop](https://sites.google.com/view/qbo-workshop-march-2023) at Oxford. Gave a talk on the buffer zone of the QBO and its sensitivity to global warming. Thanks to the organizers for a splendid workshop!
 
 February 2023: Presented "Revisiting simple models of ozone photochemistry: structure, self-healing, and sensitivity to global warming" at Harvard ClimaTea. Thanks to Stephen Bourguet for organizing the visit.
