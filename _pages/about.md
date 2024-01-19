@@ -18,7 +18,7 @@ I perform climate outreach with colleagues through [Climate Up Close](https://ww
 
 **Happenings**
 
-January 2024: New [pre-print][https://egusphere.copernicus.org/preprints/2024/egusphere-2024-147/] posted: "Beyond self-healing: Stabilizing and destabilizing photochemical adjustment of the ozone layer". Feedback and comments welcome.
+January 2024: New [pre-print](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-147/) posted: "Beyond self-healing: Stabilizing and destabilizing photochemical adjustment of the ozone layer". Feedback and comments welcome.
 
 January 2024: Presented "Beyond self-healing: Stabilizing and destabilizing photochemical adjustment of the ozone layer" to the Princeton AOS Dynamics Seminar.
 
