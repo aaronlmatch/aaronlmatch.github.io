@@ -18,6 +18,10 @@ I perform climate outreach with colleagues through [Climate Up Close](https://ww
 
 **Happenings**
 
+January 2024: New [pre-print][https://egusphere.copernicus.org/preprints/2024/egusphere-2024-147/] posted: "Beyond self-healing: Stabilizing and destabilizing photochemical adjustment of the ozone layer". Feedback and comments welcome.
+
+January 2024: Presented "Beyond self-healing: Stabilizing and destabilizing photochemical adjustment of the ozone layer" to the Princeton AOS Dynamics Seminar.
+
 April 2023: Presented "Understanding the stratospheric ozone response to global warming" at the 2023 EGU General Assembly session on Dynamics and Chemistry of the Upper Troposphere and Lower Stratosphere.
 
 April 2023: Presented "Simple models of stratospheric ozone photochemistry" while visiting several institutions around Europe, with many thanks to my hosts at each stop: University of Reading (Keith Shine), Cambridge University (Alison Ming), Max Planck Institute for Meteorology (Hauke Schmidt), Free University of Berlin (Stephan Pfahl), and Institute of Atmospheric Physics and the University of Munich (Thomas Birner and Hella Garny).
