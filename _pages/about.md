@@ -18,6 +18,10 @@ I perform climate outreach with colleagues through [Climate Up Close](https://ww
 
 **Happenings**
 
+February 2024: Presented "Explaining ozone layer structure and self-healing" at NASA GISS Lunch Seminar Series. Thanks to Clara Orbe and Maggie DeLessio for hosting my visit.
+
+January 2024: Co-led an informal workshop at Princeton University, "Extreme Event Attribution: A critical review" with Ben Schaffer.
+
 January 2024: New [pre-print](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-147/) posted: "Beyond self-healing: Stabilizing and destabilizing photochemical adjustment of the ozone layer". Feedback and comments welcome.
 
 January 2024: Presented "Beyond self-healing: Stabilizing and destabilizing photochemical adjustment of the ozone layer" to the Princeton AOS Dynamics Seminar.
