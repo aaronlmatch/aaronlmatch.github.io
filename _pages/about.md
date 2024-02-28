@@ -18,7 +18,7 @@ I perform climate outreach with colleagues through [Climate Up Close](https://ww
 
 **Happenings**
 
-February 2024: Presented "Explaining ozone layer structure and self-healing" at NASA GISS Lunch Seminar Series. Thanks to Clara Orbe and Maggie DeLessio for hosting my visit.
+February 2024: Presented "Explaining ozone layer structure and self-healing" at NASA GISS Lunch Seminar Series. Thanks to Clara Orbe and Maggie DeLessio for hosting my visit.  &#124; [Recording on Youtube](https://www.youtube.com/watch?v=wB-lxWuuoEg)
 
 January 2024: Co-led an informal workshop at Princeton University, "Extreme Event Attribution: A critical review" with Ben Schaffer.
 
