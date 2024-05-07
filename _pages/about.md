@@ -10,13 +10,15 @@ redirect_from:
 
 I am an atmospheric scientist with a focus on stratospheric dynamics, stratospheric chemistry, and climate science. I am an NSF Postdoctoral Research Fellow in Atmospheric and Geospace Sciences working with Professor Ed Gerber at New York University. My work revisits mechanistic explanations for complex results through the analysis of paradigmatic models.
 
-During my post-doc, I have been analyzing the ozone response to global warming. Prevailing explanations of ozone reductions in the tropical lower stratosphere under global warming focus on the role of strengthening upwelling. Yet, by coupling together Chapman photochemistry with a leaky tropical pipe and a zero-ozone tropopause condition, we show that the ozone reductions are also driven at leading order by tropospheric expansion.
+During my post-doc, I have been analyzing the ozone layer: its basic structure and response to perturbations such as ozone-depleting substances and global warming. For the response to global warming, prevailing explanations of ozone reductions in the tropical lower stratosphere have focused on the role of strengthening upwelling. Yet, by coupling together Chapman photochemistry with a leaky tropical pipe and a zero-ozone tropopause condition, we show that the ozone reductions are also driven at leading order by tropospheric expansion.
 
 My Ph.D. is in Atmospheric and Oceanic Sciences from Princeton University advised by Stephan Fueglistaler, where we revisited why the Quasi-Biennial Oscillation vanishes below 70 hPa. The accepted interpretation of the classical QBO model was found to rely on circular reasoning concerning the lower boundary condition. Breaking the circularity revealed that the QBO in the lowermost stratosphere is damped by lateral momentum exchange.
 
 I perform climate outreach with colleagues through [Climate Up Close](https://www.climateupclose.org/).
 
 **Happenings**
+
+April 2024: Presented "Protection without poison: why ozone maximizes in the interior of the atmosphere" at the Lamont-Doherty Earth Observatory OCP Seminar. Thanks to Dhruv Balwada, Sam Bartusek, and Clare Singer for helping to organize the visit.
 
 February 2024: Presented "Explaining ozone layer structure and self-healing" at NASA GISS Lunch Seminar Series. Thanks to Clara Orbe and Maggie DeLessio for hosting my visit.  &#124; [Recording on Youtube](https://www.youtube.com/watch?v=wB-lxWuuoEg)
 
