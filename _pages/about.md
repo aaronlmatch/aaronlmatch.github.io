@@ -18,6 +18,8 @@ I perform climate outreach with colleagues through [Climate Up Close](https://ww
 
 **Happenings**
 
+June 2024: New [pre-print](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1552/) posted: "Protection without poison: Why tropical ozone maximizes in the interior of the atmosphere" for discussion in ACP. Feedback and comments welcome.
+
 April 2024: Presented "Protection without poison: why ozone maximizes in the interior of the atmosphere" at the Lamont-Doherty Earth Observatory OCP Seminar. Thanks to Dhruv Balwada, Sam Bartusek, and Clare Singer for helping to organize the visit. &#124; [Recording on Youtube](https://youtu.be/tyWWNr814KM?si=HjGAaYrz1yC9UZ4b)
 
 February 2024: Presented "Explaining ozone layer structure and self-healing" at NASA GISS Lunch Seminar Series. Thanks to Clara Orbe and Maggie DeLessio for hosting my visit.  &#124; [Recording on Youtube](https://www.youtube.com/watch?v=wB-lxWuuoEg)
