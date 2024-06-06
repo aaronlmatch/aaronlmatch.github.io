@@ -5,6 +5,12 @@ permalink: /papers/
 author_profile: true
 ---
 
+**In review**
+
+**A. Match**, E. P. Gerber, and S. Fueglistaler: *Protection without poison: Why tropical ozone maximizes in the interior of the atmosphere*, EGUsphere [preprint], [[doi]](https://doi.org/10.5194/egusphere-2024-1552), 2024.
+
+**A. Match**., E. P. Gerber, and S. Fueglistaler: *Beyond self-healing: Stabilizing and destabilizing photochemical adjustment of the ozone layer*, EGUsphere [preprint], [[doi]](https://doi.org/10.5194/egusphere-2024-147), 2024.
+
 **2022**
 
 **A. Match**, E.P. Gerber, 2022: *Tropospheric expansion under global warming reduces tropical lower stratospheric ozone*. Geophysical Research Letters, 49, 19, 1-12. [[doi]]( https://doi.org/10.1029/2022GL099463)
