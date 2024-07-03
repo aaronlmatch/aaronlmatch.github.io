@@ -18,6 +18,8 @@ I perform climate outreach with colleagues through [Climate Up Close](https://ww
 
 **Happenings**
 
+June 2024: Presented "Protection without poison: why ozone maximizes in the interior of the atmosphere" at AMS AOFD/MA meeting in Burlington, VT. &#124; [Recording on Youtube](https://youtu.be/apKHFME-gos?si=JWEvzDRWJmXhpBpR)
+
 June 2024: Received an AGU 2023 Editor's Citation for excellence in reviewing of JGR: Atmospheres.
 
 June 2024: New [pre-print](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1552/) posted: "Protection without poison: Why tropical ozone maximizes in the interior of the atmosphere" for discussion in ACP. Feedback and comments welcome.
