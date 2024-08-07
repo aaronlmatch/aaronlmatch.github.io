@@ -18,6 +18,8 @@ I perform climate outreach with colleagues through [Climate Up Close](https://ww
 
 **Happenings**
 
+August 2024: Our [2024 Climate Up Close tour](https://www.climateupclose.org/2024-summer-tour) of the Lakes Region of New Hampshire had 6 events that reached 200 people, at churches, a synagogue, a museum, and an environmental center. Press coverage by [Granite Geek](https://www.concordmonitor.com/climate-politics-election-56143804) and [NHPR](https://www.nhpr.org/nh-news/2024-08-02/got-questions-about-global-warming-these-climate-scientists-are-touring-nh-with-answers).
+
 June 2024: Presented "Protection without poison: why ozone maximizes in the interior of the atmosphere" at AMS AOFD/MA meeting in Burlington, VT. &#124; [Recording on Youtube](https://youtu.be/apKHFME-gos?si=JWEvzDRWJmXhpBpR)
 
 June 2024: Received an AGU 2023 Editor's Citation for excellence in reviewing of JGR: Atmospheres.
