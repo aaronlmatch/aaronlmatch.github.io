@@ -18,6 +18,8 @@ I perform climate outreach with colleagues through [Climate Up Close](https://ww
 
 **Happenings**
 
+September 2024: Visited the University of Washington Department of Atmospheric and Climate Sciences for three days, presenting "Protection without poison: why tropical ozone maximizes in the interior of the atmosphere". Much appreciation to Peter Blossey for hosting my visit and to Clayton Sasaki for his hospitality.
+
 August 2024: Presented the scientific consensus on climate change to New Hampshirites on our [2024 Climate Up Close tour](https://www.climateupclose.org/2024-summer-tour), with 6 events reaching 200 people at churches, a synagogue, a museum, and an environmental center. Press coverage by [Granite Geek](https://www.concordmonitor.com/climate-politics-election-56143804) and [NHPR](https://www.nhpr.org/nh-news/2024-08-02/got-questions-about-global-warming-these-climate-scientists-are-touring-nh-with-answers).
 
 July 2024: Presented "Beyond self-healing: Stabilizing and destabilizing photochemical adjustment of the ozone layer" at the Quadrennial Ozone Symposium in Boulder, CO.
