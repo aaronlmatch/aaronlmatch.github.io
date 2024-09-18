@@ -5,11 +5,17 @@ permalink: /papers/
 author_profile: true
 ---
 
+**Submitted**
+
+**A. Match**, E.P. Gerber: *The double dip: how tropospheric expansion counteracts increases in extratropical stratospheric ozone under global warming*.
+
 **In review**
 
 **A. Match**, E. P. Gerber, and S. Fueglistaler: *Protection without poison: Why tropical ozone maximizes in the interior of the atmosphere*, EGUsphere [preprint], [[doi]](https://doi.org/10.5194/egusphere-2024-1552), 2024.
 
-**A. Match**., E. P. Gerber, and S. Fueglistaler: *Beyond self-healing: Stabilizing and destabilizing photochemical adjustment of the ozone layer*, EGUsphere [preprint], [[doi]](https://doi.org/10.5194/egusphere-2024-147), 2024.
+**2024**
+
+**A. Match**., E. P. Gerber, and S. Fueglistaler, 2024: *Beyond self-healing: Stabilizing and destabilizing photochemical adjustment of the ozone layer*, Atmos. Chem. Phys., 24, 10305–10322 [[doi]](https://doi.org/10.5194/acp-24-10305-2024).
 
 **2022**
 
