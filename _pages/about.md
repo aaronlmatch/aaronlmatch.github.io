@@ -18,6 +18,8 @@ I perform climate outreach with colleagues through [Climate Up Close](https://ww
 
 **Happenings**
 
+September 2024: Presented "Protection without poison: why tropical ozone maximizes in the interior of the atmosphere" at the NYU CAOS seminar. Thus concludes my fruitful postdoc with Ed Gerber.
+
 September 2024: New paper published: Match, A., E.P. Gerber, S. Fueglistaler, 2024: *Beyond self-healing: stabilizing and destabilizing photochemical adjustment of the ozone layer*. Atmos. Chem. Phys., 24, 10305–10322. [doi](https://doi.org/10.5194/acp-24-10305-2024)
 
 September 2024: Visited the University of Washington Department of Atmospheric and Climate Sciences for three days, presenting "Protection without poison: why tropical ozone maximizes in the interior of the atmosphere". Much appreciation to Peter Blossey for hosting my visit and to Clayton Sasaki for his hospitality.
