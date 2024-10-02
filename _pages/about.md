@@ -18,6 +18,8 @@ I perform climate outreach with colleagues through [Climate Up Close](https://ww
 
 **Happenings**
 
+October 2024: Moved to Ithaca to begin a postdoc with Peter Hitchcock at Cornell University! We will be funded by the NSF grant we co-wrote called "From surface warming to stratospheric change". The project includes co-PI Jonathan Lin and unfunded collaborators Peter Blossey, Blaž Gasparini, and Ed Gerber.
+
 September 2024: Presented "Protection without poison: why tropical ozone maximizes in the interior of the atmosphere" at the NYU CAOS seminar. Thus concludes my fruitful postdoc with Ed Gerber.
 
 September 2024: New paper published: Match, A., E.P. Gerber, S. Fueglistaler, 2024: *Beyond self-healing: stabilizing and destabilizing photochemical adjustment of the ozone layer*. Atmos. Chem. Phys., 24, 10305–10322. [doi](https://doi.org/10.5194/acp-24-10305-2024)
