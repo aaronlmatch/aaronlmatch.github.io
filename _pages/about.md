@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an atmospheric scientist with a focus on stratospheric dynamics, stratospheric chemistry, and climate science. My work scrutinizes mechanistic explanations for emergent climate phenomena. I have spent a good deal of time at the bottom of the hierarchy of climate models, working to improve the occasional instances in which our conceptual explanations for atmospheric phenomena (i.e., how we think about the atmosphere) do not align with the quantitative theories on which they are nominally based. Questions like: Why does tropical ozone have an interior maximum? How does photochemistry lead to cascading responses of the ozone layer to perturbations? Why does the tropical Quasi-Biennial Oscillation vanish below 70 hPa? These results have implications for interpreting comprehensive atmospheric models and understanding the climate response to perturbations such as global warming and ozone depletion.
+I am an atmospheric scientist with a focus on stratospheric dynamics, stratospheric chemistry, and climate science. My work scrutinizes mechanistic explanations for emergent climate phenomena. I have focused on the bottom of the hierarchy of climate models, working to improve the occasional instances in which our conceptual explanations for atmospheric phenomena (i.e., how we think about the atmosphere) do not align with the quantitative theories on which they are nominally based. Questions like: Why does tropical ozone have an interior maximum? How does photochemistry lead to cascading responses of the ozone layer to perturbations? Why does the tropical Quasi-Biennial Oscillation vanish below 70 hPa? These results have implications for interpreting comprehensive atmospheric models and understanding the climate response to perturbations such as global warming and ozone depletion.
 
-Beginning in October 2024, I am a postdoctoral researcher working with Peter Hitchcock at Cornell University. We are working on a project called "From surface warming to stratospheric change", in which we seek to understand how surface warming---both mean and patterned---affects the tropical tropopause layer and stratosphere, thinking carefully about the roles of convection, waves, ozone, and water vapor. 
+In October 2024, I began as a postdoctoral researcher working with Peter Hitchcock at Cornell University. We are working on a project called "From surface warming to stratospheric change", in which we seek to understand how surface warming---both mean and patterned---affects the tropical tropopause layer and stratosphere, thinking carefully about the roles of convection, waves, ozone, and water vapor. 
 
 Before this, I was an NSF Postdoctoral Research Fellow in Atmospheric and Geospace Sciences with Ed Gerber at New York University. We analyzed the ozone layer, including its basic structure and response to perturbations such as ozone-depleting substances and global warming. We developed new theoretical understanding of why tropical ozone has an interior maximum, how the ozone layer adjusts photochemically to perturbations, and how tropospheric expansion is essential to understanding the ozone layer response to surface warming.
 
@@ -19,6 +19,8 @@ My Ph.D. is in Atmospheric and Oceanic Sciences from Princeton University where 
 I perform climate outreach with colleagues through [Climate Up Close](https://www.climateupclose.org/).
 
 **Happenings**
+
+November 2024: Presented the scientific consensus on climate change with [Climate Up Close](https://www.climateupclose.org/) to the New Hampshire Association of Conservation Commissions.
 
 October 2024: Moved to Ithaca to begin a postdoc with Peter Hitchcock at Cornell University! We will be funded by the NSF grant we co-wrote called "From surface warming to stratospheric change". The project includes co-PI Jonathan Lin and unfunded collaborators Peter Blossey, Blaž Gasparini, and Ed Gerber.
 
