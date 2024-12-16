@@ -20,6 +20,8 @@ I perform climate outreach with colleagues through [Climate Up Close](https://ww
 
 **Happenings**
 
+December 2024: Gave an invited talk at AGU Fall Meeting 2024 on *Protection without Poison: Why tropical ozone number density peaks at 26 km*. Thanks to the conveners for the invitation---Paul Newman, Natalya Kramarova, and Bill Randel. Also presented another talk (*The Double Dip: How tropospheric expansion counteracts increases in extratropical stratospheric ozone under global warming*) and a poster (*On the complementarity of extreme event costs attributed to changes in frequency versus intensity*).
+
 November 2024: Presented the scientific consensus on climate change with [Climate Up Close](https://www.climateupclose.org/) to the New Hampshire Association of Conservation Commissions.
 
 October 2024: Moved to Ithaca to begin a postdoc with Peter Hitchcock at Cornell University! We will be funded by the NSF grant we co-wrote called "From surface warming to stratospheric change". The project includes co-PI Jonathan Lin and unfunded collaborators Peter Blossey, Blaž Gasparini, and Ed Gerber.
