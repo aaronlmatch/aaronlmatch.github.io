@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an atmospheric scientist with a focus on stratospheric dynamics, stratospheric chemistry, and climate science. My work scrutinizes mechanistic explanations for emergent climate phenomena. I have focused on the bottom of the hierarchy of climate models, working to improve the occasional instances in which our conceptual explanations for atmospheric phenomena (i.e., how we think about the atmosphere) do not align with the quantitative theories on which they are nominally based. Questions like: Why does tropical ozone have an interior maximum? How does photochemistry lead to cascading responses of the ozone layer to perturbations? Why does the tropical Quasi-Biennial Oscillation vanish below 70 hPa? These results have implications for interpreting comprehensive atmospheric models and understanding the climate response to perturbations such as global warming and ozone depletion.
+I am an atmospheric scientist with a focus on stratospheric dynamics, photochemistry, and transport. My work scrutinizes mechanistic explanations for emergent climate phenomena. I have focused on the bottom of the hierarchy of climate models, working to improve the occasional instances in which our conceptual explanations for atmospheric phenomena (i.e., how we think about the atmosphere) do not align with the quantitative theories on which they are nominally based. Questions like: Why does tropical ozone have an interior maximum? How does photochemistry lead to cascading responses of the ozone layer to perturbations? Why does the tropical Quasi-Biennial Oscillation vanish below 70 hPa? These results have implications for interpreting comprehensive atmospheric models and understanding the climate response to perturbations such as global warming and ozone depletion.
 
 In October 2024, I began as a postdoctoral researcher working with Peter Hitchcock at Cornell University. We are working on a project called "From surface warming to stratospheric change", in which we seek to understand how surface warming---both mean and patterned---affects the tropical tropopause layer and stratosphere, thinking carefully about the roles of convection, waves, ozone, and water vapor. 
 
@@ -19,6 +19,8 @@ My Ph.D. is in Atmospheric and Oceanic Sciences from Princeton University where 
 I perform climate outreach with colleagues through [Climate Up Close](https://www.climateupclose.org/).
 
 **Happenings**
+
+February 2025: Presented the scientific consensus on climate change to a high school Climate Fiction class in New Hampshire.
 
 December 2024: Gave an invited talk at AGU Fall Meeting 2024 on *Protection without Poison: Why tropical ozone number density peaks around 26 km*. Thanks to the conveners: Paul Newman, Natalya Kramarova, and Bill Randel. Also presented another talk (*The Double Dip: How tropospheric expansion counteracts increases in extratropical stratospheric ozone under global warming*) and a poster (*On the complementarity of extreme event costs attributed to changes in frequency versus intensity*).
 
