@@ -18,7 +18,7 @@ Before this, I was an NSF Postdoctoral Research Fellow in Atmospheric and Geospa
 
 My Ph.D. is in Atmospheric and Oceanic Sciences from Princeton University where I was advised by Stephan Fueglistaler. We revisited why the Quasi-Biennial Oscillation vanishes below 70 hPa. The accepted interpretation based on the classical QBO model was found to rely on circular reasoning concerning the lower boundary condition. Breaking the circularity led us to realize that the QBO in the lowermost stratosphere vanishes because it is damped by lateral momentum exchange. Under global warming, this lower boundary should shift upwards along with the expanding troposphere, leading to a weakening of the QBO at any given altitude, yet the large internal variability of the QBO appears to have obscured this signal thus far.
 
-I am the Community Lead for Working Group 3 of Quasi-biennial oscillation and Ozone Chemistry interactions in the Atmosphere (QUOCA), focused on Analytical Models and Linearized Ozone Parameterizations. If you want to contribute to this activity, please let me know!
+I am the Community Lead for Working Group 3 of Quasi-biennial oscillation and Ozone Chemistry interactions in the Atmosphere (QUOCA), focused on Analytical Models and Linearized Ozone Parameterizations. Reach out if you want to contribute to this activity.
 
 I perform climate outreach with scientific colleagues through the organization I co-founded called [Climate Up Close](https://www.climateupclose.org/). 
 
