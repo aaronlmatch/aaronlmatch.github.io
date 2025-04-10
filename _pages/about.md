@@ -10,7 +10,7 @@ redirect_from:
 
 I am an atmospheric scientist with a focus on stratospheric dynamics, photochemistry, and transport. 
 
-My work scrutinizes mechanistic explanations for emergent aspects of stratospheric structure. I have focused on the bottom of the hierarchy of climate models, working to improve the occasional instances in which our conceptual explanations for atmospheric phenomena (i.e., how we think about the atmosphere) do not align with the quantitative theories on which they are nominally based. Questions like: Why does tropical ozone have an interior maximum? How does photochemistry lead to a downward cascade of adjustments to the ozone layer as it responds to a perturbation? Why does the tropical Quasi-Biennial Oscillation vanish below 70 hPa? These results have implications for interpreting comprehensive atmospheric models and understanding the climate response to perturbations such as global warming and ozone depletion.
+I develop simple models of the stratosphere, which help interpret its behavior in observations and complex models. This works clarify how to think about the stratosphere and its sensitivity to perturbations. We have developed a new explanation for how transport and photochemistry lead to the observed shape of the tropical ozone profile, which improves on limitations of previous explanations. This work clarifies how ozone responds to perturbations, highlighting the essential role played by tropospheric expansion in the ozone response to surface warming. This work also advances understanding of photochemical adjustment, which is the process by which the ozone layer adjusts to perturbations through a downward cascade of anomalies in ultraviolet radiation and ozone. I have also developed a new explanation for why the tropical Quasi-Biennial Oscillation vanishes around 70 hPa, which improves on limitations of previous arguments and clarifies the response to global warming.
 
 In October 2024, I began as a postdoctoral researcher working with Peter Hitchcock at Cornell University. We are working on an NSF-funded project that we co-wrote along with co-PI Jonathan Lin called "From surface warming to stratospheric change", in which we seek to understand how surface warming---both mean and patterned---affects the tropical tropopause layer and stratosphere, thinking carefully about the roles of convection, waves, ozone, and water vapor. 
 
@@ -18,9 +18,19 @@ Before this, I was an NSF Postdoctoral Research Fellow in Atmospheric and Geospa
 
 My Ph.D. is in Atmospheric and Oceanic Sciences from Princeton University where I was advised by Stephan Fueglistaler. We revisited why the Quasi-Biennial Oscillation vanishes below 70 hPa. The accepted interpretation based on the classical QBO model was found to rely on circular reasoning concerning the lower boundary condition. Breaking the circularity led us to realize that the QBO in the lowermost stratosphere vanishes because it is damped by lateral momentum exchange. Under global warming, this lower boundary should shift upwards along with the expanding troposphere, leading to a weakening of the QBO at any given altitude, yet the large internal variability of the QBO appears to have obscured this signal thus far.
 
-I perform climate outreach with colleagues through [Climate Up Close](https://www.climateupclose.org/).
+I am the Community Lead for Working Group 3 of Quasi-biennial oscillation and Ozone Chemistry interactions in the Atmosphere (QUOCA), focused on Analytical Models and Linearized Ozone Parameterizations. If you want to contribute to this activity, please let me know!
+
+I perform climate outreach with scientific colleagues through the organization I co-founded called [Climate Up Close](https://www.climateupclose.org/). 
 
 **Happenings**
+
+April 2025: Presented *A conceptual model for the tropical [O3] profile* to the Vecchi/Soden/+ group meeting. Thanks to Ivan Mitevski and Emma Levin for organizing.
+
+April 2025: Participated in an ISSI meeting on investigating QBO-ozone interactions in Bern, Switzerland.
+
+March 2025: Attended the QBOi-SNAP-QUOCA meeting in Cambridge, UK. Gave an invited talk on *A conceptual model for the tropical [O3] profile*, which was selected as a best talk by an Early Career Researcher. Also led a brainstorming session for future activities by QUOCA Working Group 3 on Analytical Models and Linearized Ozone Parameterizations.
+
+March 2025: Visited University of St. Andrews (Scotland) and presented *Protection without Poison: Why tropical ozone number density peaks around 26 km*. Much appreciation to Graeme MacGilchrist for hosting the visit.
 
 February 2025: Presented the scientific consensus on climate change to a high school Climate Fiction class in New Hampshire.
 
