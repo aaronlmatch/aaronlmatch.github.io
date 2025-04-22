@@ -24,6 +24,8 @@ I perform climate outreach with scientific colleagues through the organization I
 
 **Happenings**
 
+April 2025: New paper published: Match, A., Gerber, E. P., and Fueglistaler, S.: *Protection without poison: why tropical ozone maximizes in the interior of the atmosphere*, Atmos. Chem. Phys., 25, 4349–4366, https://doi.org/10.5194/acp-25-4349-2025, 2025.
+
 April 2025: Presented *A conceptual model for the tropical [O3] profile* to the Vecchi/Soden/+ group meeting. Thanks to Ivan Mitevski and Emma Levin for organizing.
 
 April 2025: Participated in an ISSI meeting on investigating QBO-ozone interactions in Bern, Switzerland.
