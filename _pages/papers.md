@@ -5,8 +5,6 @@ permalink: /papers/
 author_profile: true
 ---
 
-**Accepted**
-
 **2025**
 
 **Match, A.**, and E. P., Gerber, 2025: *The double dip: How tropospheric expansion counteracts increases in extratropical stratospheric ozone under global warming*. Geophysical Research Letters, 52, e2024GL112409. [[doi]](https://doi.org/10.1029/2024GL112409)
