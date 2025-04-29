@@ -7,9 +7,9 @@ author_profile: true
 
 **Accepted**
 
-**A. Match**, E.P. Gerber: *The double dip: how tropospheric expansion counteracts increases in extratropical stratospheric ozone under global warming*. GRL.
-
 **2025**
+
+**Match, A.**, and E. P., Gerber, 2025: *The double dip: How tropospheric expansion counteracts increases in extratropical stratospheric ozone under global warming*. Geophysical Research Letters, 52, e2024GL112409. [[doi]](https://doi.org/10.1029/2024GL112409)
 
 **A. Match**,  E. P. Gerber, and S. Fueglistaler, 2025: *Protection without poison: why tropical ozone maximizes in the interior of the atmosphere*, Atmos. Chem. Phys., 25, 4349–4366, [[doi]](https://doi.org/10.5194/acp-25-4349-2025).
 
