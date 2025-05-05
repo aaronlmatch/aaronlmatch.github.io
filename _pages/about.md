@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an atmospheric scientist with a focus on stratospheric dynamics, photochemistry, and transport. 
+I am an atmospheric scientist working on stratospheric dynamics, photochemistry, and transport. 
 
 I develop theory and simple models for understanding the stratosphere. These models clarify how to think about the structure of the stratosphere and its response to perturbations, and facilitate the interpretation of observations and global climate models. I have developed a new explanation for how transport and photochemistry lead to the observed shape of the tropical ozone profile, clarifying how ozone responds to perturbations. This work has highlighted the essential role played by tropospheric expansion in the ozone response to surface warming. This work also advances understanding of photochemical adjustment, which is the process by which the ozone layer adjusts to perturbations through a downward cascade of anomalies in ultraviolet radiation and ozone. I have also developed a new explanation for why the tropical Quasi-Biennial Oscillation vanishes around 70 hPa, clarifying the response to global warming.
 
