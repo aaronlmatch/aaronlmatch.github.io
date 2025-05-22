@@ -5,6 +5,10 @@ permalink: /papers/
 author_profile: true
 ---
 
+**Submitted**
+
+**Match, A.** & B. Schaffer (co-first authors), S. Fueglistaler: *Interpreting differences between the frequency-change and intensity-change approaches for attributing extreme event costs to climate change*.
+
 **2025**
 
 **Match, A.**, and E. P., Gerber, 2025: *The double dip: How tropospheric expansion counteracts increases in extratropical stratospheric ozone under global warming*. Geophysical Research Letters, 52, e2024GL112409. [[doi]](https://doi.org/10.1029/2024GL112409)
