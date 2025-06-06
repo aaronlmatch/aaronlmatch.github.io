@@ -24,7 +24,7 @@ I perform climate outreach with scientific colleagues through the organization I
 
 **Happenings**
 
-May 2015: Selected as one of the 2024 Outstanding Reviewers for JGR: Atmospheres.
+May 2025: Selected as one of the 2024 Outstanding Reviewers for JGR: Atmospheres.
 
 April 2025: New paper published: Match, A., and Gerber, E. P.,: *The double dip: how tropospheric expansion counteracts increases in extratropical stratospheric ozone under global warming*, GRL, 52, e2024GL112409, [https://doi.org/10.1029/2024GL112409](https://doi.org/10.1029/2024GL112409), 2025
 
