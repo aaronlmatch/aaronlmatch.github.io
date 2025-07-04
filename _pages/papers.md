@@ -9,6 +9,8 @@ author_profile: true
 
 **A. Match** & B. Schaffer (co-first authors), and S. Fueglistaler: *Interpreting differences between the frequency-change and intensity-change approaches for attributing extreme event costs to climate change*.
 
+Orbe et al., incl. **Aaron Match**: *Experimental Protocol for Phase 1 of the APARC QUOCA (QUasibiennial oscillation and Ozone Chemistry interactions in the Atmosphere) Working Group*. [In discussion](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-2761/) at GMD. 
+
 **2025**
 
 **A. Match** and E. P., Gerber, 2025: *The double dip: How tropospheric expansion counteracts increases in extratropical stratospheric ozone under global warming*. Geophysical Research Letters, 52, e2024GL112409. [[doi]](https://doi.org/10.1029/2024GL112409)
