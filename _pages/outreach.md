@@ -10,9 +10,9 @@ In 2019, I co-founded Climate Up Close to make the essentials of climate science
 Visit our website: [https://www.climateupclose.org](https://www.climateupclose.org)
 
 My media hits supporting our group:
-* Interview with Granite Geek in New Hampshire before our 2024 tour [article](https://granitegeek.concordmonitor.com/2024/07/30/can-a-just-the-facts-approach-move-the-needle-on-climate-change/)
-* Interview with Mara Hoplamazian of NHPR covering our 2024 tour [article](https://www.nhpr.org/nh-news/2024-08-02/got-questions-about-global-warming-these-climate-scientists-are-touring-nh-with-answers)
-* 30-minute radio interview with KZUM Our Street of Lincoln, NE before our 2025 tour [recording](https://kzum.org/ourstreet/) (Find the interview that aired 6/23/25 entitled "Climate change")
-* 30-minute interview with Three Degrees podcast [recording pending]
+* Interview with Granite Geek in New Hampshire before our 2024 tour [[article]](https://granitegeek.concordmonitor.com/2024/07/30/can-a-just-the-facts-approach-move-the-needle-on-climate-change/)
+* Interview with Mara Hoplamazian of NHPR covering our 2024 tour [[article]](https://www.nhpr.org/nh-news/2024-08-02/got-questions-about-global-warming-these-climate-scientists-are-touring-nh-with-answers)
+* 30-minute radio interview with KZUM Our Street of Lincoln, NE before our 2025 tour [[recording]](https://kzum.org/ourstreet/) (Find the interview that aired 6/23/25 entitled "Climate change")
+* 30-minute interview with Three Degrees podcast [[recording pending]]
 
 You can request an event (virtually or in person on our next tour) through our [Contact Us page](https://www.climateupclose.org/contact-us), or you can contact me directly at aaron.match@cornell.edu.
