@@ -24,6 +24,8 @@ I perform climate outreach with scientific colleagues through the organization I
 
 **Happenings**
 
+June 2025: Presented the essentials of climate change on the Climate Up Close Summer Tour of Nebraska. We held 8 events in Lincoln and Omaha, at churches, an environmental center, a bar, and an observatory, reaching 350 attendees.
+
 May 2025: Selected as one of the 2024 Outstanding Reviewers for JGR: Atmospheres.
 
 April 2025: New paper published: Match, A., and Gerber, E. P.,: *The double dip: how tropospheric expansion counteracts increases in extratropical stratospheric ozone under global warming*, GRL, 52, e2024GL112409, [https://doi.org/10.1029/2024GL112409](https://doi.org/10.1029/2024GL112409), 2025
