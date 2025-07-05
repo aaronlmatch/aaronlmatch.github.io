@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Aaron Match"
   avatar           : "Aaron_Match_portrait-edits-smaller_crop.jpg"
-  bio              : "NSF Postdoctoral Research Fellow in Atmospheric and Geospace Sciences"
-  location         : "New York University"
+  bio              : "Postdoctoral Researcher"
+  location         : "Cornell University"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=EnYCQzEAAAAJ&hl=en"
-  email            : "aaron.match@nyu.edu"
+  email            : "aaron.match@cornell.edu"
 #   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
 #   uri              :
 #   bitbucket        :
