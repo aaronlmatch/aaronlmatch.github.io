@@ -7,9 +7,7 @@ author_profile: true
 
 In 2019, I co-founded Climate Up Close to make the essentials of climate science accessible to a broad audience. Climate Up Close is a group of climate scientists who curate the scientific consensus on climate change and present our understanding face-to-face, mainly through a one-week tour each year. Our presentations are nonpartisan, nonprescriptive, and nonjudgmental. We emphasize what climate scientists do and don't know about climate change, focusing on extreme weather and what the future holds. We welcome audiences with diverse views and provide a science-based, common language for grappling with the thorny questions involving our climate future.
 
-Visit our website: [https://www.climateupclose.org](https://www.climateupclose.org)
-
-Video of our presentation to the Unitarian Church of Lincoln on June 28, 2025:
+Watch our presentation to the Unitarian Church of Lincoln on June 28, 2025:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r-e76Adilf0?si=pEHiw4BT6sBgqvqd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Media hits (that include me) in support of our group:
@@ -20,3 +18,4 @@ Media hits (that include me) in support of our group:
 
 You can request an event (virtually or in person on our next tour) through our [Contact Us page](https://www.climateupclose.org/contact-us), or you can contact me directly at aaron.match@cornell.edu.
 
+To learn more, visit our website: [https://www.climateupclose.org](https://www.climateupclose.org)
