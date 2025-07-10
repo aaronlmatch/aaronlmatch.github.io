@@ -24,13 +24,17 @@ I perform climate outreach with scientific colleagues through the organization I
 
 **Happenings**
 
-June 2025: Presented the essentials of climate change on the Climate Up Close Summer Tour of Nebraska. We held 8 events in Lincoln and Omaha, at churches, an environmental center, a bar, and an observatory, reaching 350 attendees.
+July 2025: Interviewed along with Andrew Williams on the Three Degrees podcast to discuss Climate Up Close, having recently completed our Nebraska tour (our seventh tour). [Podcast](https://threedegreespodcast.substack.com/p/three-degrees-meet-the-scientists)
+
+June 2025: Presented the essentials of climate change on the Climate Up Close Summer Tour of Nebraska. We held 8 events in Lincoln and Omaha, at churches, an environmental center, a bar, and an observatory, reaching 350 attendees. Our presentation to the Unitarian Church of Lincoln was livestreamed. [Recording](https://www.youtube.com/watch?v=r-e76Adilf0&ab_channel=UnitarianChurchofLincoln)
+
+June 2025: Podcast-style interview promoting our upcoming Climate Up Close tour on KZUM's Our Street. [Episode](https://kzum.org/ourstreet/) (Episode is entitled "Climate change" and aired on 6/23/25)
 
 May 2025: Selected as one of the 2024 Outstanding Reviewers for JGR: Atmospheres.
 
 April 2025: New paper published: Match, A., and Gerber, E. P.,: *The double dip: how tropospheric expansion counteracts increases in extratropical stratospheric ozone under global warming*, GRL, 52, e2024GL112409, [https://doi.org/10.1029/2024GL112409](https://doi.org/10.1029/2024GL112409), 2025
 
-April 2025: New paper published: Match, A., Gerber, E. P., and Fueglistaler, S.: *Protection without poison: why tropical ozone maximizes in the interior of the atmosphere*, Atmos. Chem. Phys., 25, 4349–4366, https://doi.org/10.5194/acp-25-4349-2025, 2025.
+April 2025: New paper published: Match, A., Gerber, E. P., and Fueglistaler, S.: *Protection without poison: why tropical ozone maximizes in the interior of the atmosphere*, Atmos. Chem. Phys., 25, 4349–4366, [https://doi.org/10.5194/acp-25-4349-2025](https://doi.org/10.5194/acp-25-4349-2025), 2025.
 
 April 2025: Presented *A conceptual model for the tropical [O3] profile* to the Vecchi/Soden/+ group meeting. Thanks to Ivan Mitevski and Emma Levin for organizing.
 
