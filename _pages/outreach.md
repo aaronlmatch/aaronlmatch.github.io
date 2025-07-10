@@ -11,10 +11,10 @@ Watch our presentation to the Unitarian Church of Lincoln on June 28, 2025:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r-e76Adilf0?si=pEHiw4BT6sBgqvqd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Media hits (that include me) in support of our group:
-* Interview with Granite Geek in New Hampshire before our 2024 tour [[article]](https://granitegeek.concordmonitor.com/2024/07/30/can-a-just-the-facts-approach-move-the-needle-on-climate-change/)
-* Quoted by Mara Hoplamazian of NHPR covering our 2024 tour [[article]](https://www.nhpr.org/nh-news/2024-08-02/got-questions-about-global-warming-these-climate-scientists-are-touring-nh-with-answers)
-* 30-minute radio interview with KZUM Our Street of Lincoln, NE before our 2025 tour [[recording]](https://kzum.org/ourstreet/) (Find the interview that aired 6/23/25 entitled "Climate change")
-* 30-minute interview along with Andrew on the Three Degrees podcast [[recording pending]]
+* 30-minute interview along with Andrew Williams on the Three Degrees podcast. [[recording]](https://threedegreespodcast.substack.com/p/three-degrees-meet-the-scientists)
+* 30-minute radio interview with KZUM Our Street of Lincoln, NE before our 2025 tour. [[recording]](https://kzum.org/ourstreet/) (Find the interview that aired 6/23/25 entitled "Climate change")
+* Quoted by Mara Hoplamazian of NHPR covering our 2024 tour. [[article]](https://www.nhpr.org/nh-news/2024-08-02/got-questions-about-global-warming-these-climate-scientists-are-touring-nh-with-answers)
+* Interview with Granite Geek in New Hampshire before our 2024 tour. [[article]](https://granitegeek.concordmonitor.com/2024/07/30/can-a-just-the-facts-approach-move-the-needle-on-climate-change/)
 
 You can request an event (virtually or in person on our next tour) through our [Contact Us page](https://www.climateupclose.org/contact-us), or you can contact me directly at aaron.match@cornell.edu.
 
