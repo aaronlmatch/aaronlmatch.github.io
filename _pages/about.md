@@ -24,6 +24,8 @@ I perform climate outreach with scientific colleagues through the organization I
 
 **Happenings**
 
+August 2025: Presented "Exploring coupling between convection and ozone" at the 11th Northeast Tropical Workshop hosted by the University at Albany.
+
 July 2025: Interviewed along with Andrew Williams on the Three Degrees podcast to discuss Climate Up Close, having recently completed our Nebraska tour (our seventh tour). [Podcast](https://threedegreespodcast.substack.com/p/three-degrees-meet-the-scientists)
 
 June 2025: Presented the essentials of climate change on the Climate Up Close Summer Tour of Nebraska. We held 8 events in Lincoln and Omaha, at churches, an environmental center, a bar, and an observatory, reaching 350 attendees. Our presentation to the Unitarian Church of Lincoln was livestreamed. [Recording](https://www.youtube.com/watch?v=r-e76Adilf0&ab_channel=UnitarianChurchofLincoln)
