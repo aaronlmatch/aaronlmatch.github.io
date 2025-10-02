@@ -24,6 +24,8 @@ I perform climate outreach with scientific colleagues through the organization I
 
 **Happenings**
 
+October 2025: Presented "Simple models of tropical ozone and its response to surface warming" at NCAR ACOM in Boulder, CO. Thanks to Bill Randel for hosting my visit.
+
 August 2025: Presented "Exploring coupling between convection and ozone" at the 11th Northeast Tropical Workshop hosted by the University at Albany.
 
 July 2025: Interviewed along with Andrew Williams on the Three Degrees podcast to discuss Climate Up Close, having recently completed our Nebraska tour (our seventh tour). [Podcast](https://threedegreespodcast.substack.com/p/three-degrees-meet-the-scientists)
