@@ -10,7 +10,9 @@ redirect_from:
 
 I am an atmospheric scientist working on stratosphere-troposphere dynamics and photochemistry.
 
-I develop theory and simple models for understanding the stratosphere. These models clarify how to think about the structure of the stratosphere and its response to perturbations, and facilitate the interpretation of observations and global climate models. I have developed a new explanation for how transport and photochemistry lead to the observed shape of the tropical ozone profile, clarifying how ozone responds to perturbations. This work has highlighted the essential role played by tropospheric expansion in the ozone response to surface warming. This work also advances understanding of photochemical adjustment, which is the process by which the ozone layer adjusts to perturbations through a downward cascade of anomalies in ultraviolet radiation and ozone. I have also developed a new explanation for why the tropical Quasi-Biennial Oscillation vanishes around 70 hPa, clarifying the response to global warming.
+I develop theory and simple models that support rigorous understanding. These models clarify how to think about the basic structure of the atmosphere. This understanding of the basic structure improves understanding of its response to perturbations, such as surface warming, facilitating the interpretation of observations and global climate models. 
+
+I have developed a new explanation for how transport and photochemistry lead to the observed shape of the tropical ozone profile, clarifying how the ozone layer responds to perturbations. This work has highlighted the essential role played by tropospheric expansion in the ozone response to surface warming. This work also advances understanding of photochemical adjustment, which is the process by which the ozone layer adjusts to perturbations through a downward cascade of anomalies in ultraviolet radiation and ozone. I have also developed a new explanation for why the tropical Quasi-Biennial Oscillation vanishes around 70 hPa, clarifying the response to global warming.
 
 In October 2024, I began as a postdoctoral researcher working with Peter Hitchcock at Cornell University. We are working on an NSF-funded project that we co-wrote along with co-PI Jonathan Lin called "From surface warming to stratospheric change", in which we seek to understand how surface warming---both mean and patterned---affects the tropical tropopause layer and stratosphere, thinking carefully about the roles of convection, waves, ozone, and water vapor. 
 
@@ -24,7 +26,9 @@ I perform climate outreach with scientific colleagues through the organization I
 
 **Happenings**
 
-October 2025: Presented "Simple models of tropical ozone and its response to surface warming" at NCAR ACOM in Boulder, CO. Thanks to Bill Randel for hosting my visit.
+October 2025: Visited Princeton University for 5 days and co-presented "Interpreting differences between the frequency-change and intensity-change approaches for attributing extreme event costs to climate change" with Ben Schaffer at the Climate Brown Bag Seminar. Thanks to my Ph.D. supervisor, Stephan Fueglistaler, for hosting!
+
+October 2025: Visited the National Center for Atmospheric Research (NCAR) Atmospheric Chemistry Observations and Modeling (ACOM) for 8 days and presented "Simple models of tropical ozone and its response to surface warming". Thanks to Bill Randel for hosting!
 
 August 2025: Presented "Exploring coupling between convection and ozone" at the 11th Northeast Tropical Workshop hosted by the University at Albany.
 
