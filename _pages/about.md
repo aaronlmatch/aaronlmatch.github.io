@@ -26,6 +26,8 @@ I perform climate outreach with scientific colleagues through the organization I
 
 **Happenings**
 
+October 2025: Presented "Interpreting differences between the frequency-change and intensity-change approaches for attributing extreme event costs to climate change" at the Cornell University Atmospheric and Climate Science Seminar.
+
 October 2025: Visited Princeton University for 5 days and co-presented "Interpreting differences between the frequency-change and intensity-change approaches for attributing extreme event costs to climate change" with Ben Schaffer at the Climate Brown Bag Seminar. Thanks to my Ph.D. supervisor, Stephan Fueglistaler, for hosting!
 
 October 2025: Visited the National Center for Atmospheric Research (NCAR) Atmospheric Chemistry Observations and Modeling (ACOM) for 8 days and presented "Simple models of tropical ozone and its response to surface warming". Thanks to Bill Randel for hosting!
