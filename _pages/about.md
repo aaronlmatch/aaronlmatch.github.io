@@ -26,6 +26,8 @@ I perform climate outreach with scientific colleagues through the organization I
 
 **Happenings**
 
+January 2026: Gave an invited talk at the AMS Annual Meeting in Houston, TX: ``Understanding the stratospheric ozone response to surface warming''.
+
 October 2025: Presented "Interpreting differences between the frequency-change and intensity-change approaches for attributing extreme event costs to climate change" at the Cornell University Atmospheric and Climate Science Seminar.
 
 October 2025: Visited Princeton University for 5 days and co-presented "Interpreting differences between the frequency-change and intensity-change approaches for attributing extreme event costs to climate change" with Ben Schaffer at the Climate Brown Bag Seminar. Thanks to my Ph.D. supervisor, Stephan Fueglistaler, for hosting!
