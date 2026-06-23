@@ -26,7 +26,13 @@ I perform climate outreach with scientific colleagues through the organization I
 
 **Happenings**
 
-January 2026: Gave an invited talk at the AMS Annual Meeting in Houston, TX: ``Understanding the stratospheric ozone response to surface warming''.
+June 2026: A three-part visit to Europe: (1) Visited Thomas Birner's group at LMU Munich for two weeks, giving a talk: "A conceptual model of the tropical ozone profile through the stratosphere and troposphere"; (2) joined the Princeton AOS field trip and presented an introduction to the stratosphere on a flipchart by a campfire on Lake Sils, Switzerland; and, (3) participated in our second ISSI group meeting in Bern on observations of QBO-ozone interactions.
+
+March 2026: Visited the Yale University Department of Earth and Planetary Sciences and presented "Understanding Earth’s changing stratosphere and troposphere".
+
+January 2026: New paper out in GMD describing a modeling protocol for studying QBO-ozone interactions: Orbe et al., *Experimental protocol for phase 1 of the APARC QUOCA (QUasibiennial oscillation and Ozone Chemistry interactions in the Atmosphere) working group* [[doi]](https://doi.org/10.5194/gmd-19-773-2026)
+
+January 2026: Gave an invited talk at the AMS Annual Meeting in Houston, TX: "Understanding the stratospheric ozone response to surface warming".
 
 October 2025: Presented "Interpreting differences between the frequency-change and intensity-change approaches for attributing extreme event costs to climate change" at the Cornell University Atmospheric and Climate Science Seminar.
 
