@@ -5,11 +5,13 @@ permalink: /papers/
 author_profile: true
 ---
 
-**Submitted**
+**In review**
 
-**A. Match** & B. Schaffer (co-first authors), and S. Fueglistaler: *Interpreting differences between the frequency-change and intensity-change approaches for attributing extreme event costs to climate change*.
+**A. Match** & B. Schaffer (co-first authors), and S. Fueglistaler: *On the inherent ambiguity of extreme event costs attributed to climate change*.
 
-C. Orbe et al., incl. **A. Match**: *Experimental Protocol for Phase 1 of the APARC QUOCA (QUasibiennial oscillation and Ozone Chemistry interactions in the Atmosphere) Working Group*. [In discussion](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-2761/) at GMD. 
+**2026**
+
+Orbe, C., Ming, A., Chiodo, G., Prather, M., Diallo, M., Tang, Q., Chrysanthou, A., Naoe, H., Zhou, X., Thaler, I., Elsbury, D., Bednarz, E., Wright, J. S., **Match, A.**, Watanabe, S., Anstey, J., Kerzenmacher, T., Versick, S., Marchand, M., Li, F., and Keeble, J.: *Experimental protocol for phase 1 of the APARC QUOCA (QUasibiennial oscillation and Ozone Chemistry interactions in the Atmosphere) working group*, Geosci. Model Dev., 19, 773–794, [[doi]](https://doi.org/10.5194/gmd-19-773-2026).
 
 **2025**
 
