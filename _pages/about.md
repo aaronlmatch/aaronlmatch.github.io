@@ -30,7 +30,7 @@ My outreach feeds back onto my research. I have been working with Benjamin Schaf
 
 **Happenings**
 
-September 2026: The first paper from my side project on extreme event impact attribution has been accepted to AGU Advances: Match \& Schaffer, and Fueglistaler: *On the inherent ambiguity of extreme event costs attributed to climate change*.
+September 2026: The first paper from my side project on extreme event impact attribution has been accepted to AGU Advances: Match & Schaffer, and Fueglistaler: *On the inherent ambiguity of extreme event costs attributed to climate change*.
 
 June 2026: A three-part visit to Europe: (1) Visited Thomas Birner's group at LMU Munich for two weeks, giving a talk: "A conceptual model of the tropical ozone profile through the stratosphere and troposphere"; (2) joined the Princeton AOS field trip and presented an introduction to the stratosphere on a flipchart by a campfire on Lake Sils, Switzerland; and, (3) participated in our second ISSI group meeting in Bern on observations of QBO-ozone interactions.
 
