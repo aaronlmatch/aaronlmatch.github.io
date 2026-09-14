@@ -10,7 +10,7 @@ redirect_from:
 
 **Earth’s atmosphere** is the stuff of small talk (how about that storm?) and big questions: Why is Earth’s atmosphere the way it is? How is it changing? How should we think about these changes? 
 
-The combination of **weather and climate** caught hold of me before I was even a teenager, as I pored over weather model output to predict when I could build the next snowfort while also learning that everyday actions by people like me will change the planet for millennia.
+The combination of weather and climate caught hold of me before I was even a teenager, as I pored over weather model output to predict when I could build the next snowfort while also learning that everyday actions by people like me will change the planet for millennia.
 
 Now, I am an **atmospheric scientist** specializing in **stratosphere-troposphere dynamics and photochemistry**. I am also a **climate science communicator**. 
 
