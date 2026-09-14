@@ -5,9 +5,9 @@ permalink: /papers/
 author_profile: true
 ---
 
-**In review**
+**Accepted**
 
-**A. Match** & B. Schaffer (co-first authors), and S. Fueglistaler: *On the inherent ambiguity of extreme event costs attributed to climate change*.
+**A. Match** & B. Schaffer (co-first authors), and S. Fueglistaler: *On the inherent ambiguity of extreme event costs attributed to climate change*. AGU Advances
 
 **2026**
 
