@@ -30,7 +30,7 @@ My outreach feeds back onto my research. I have been working with Benjamin Schaf
 
 **Happenings**
 
-September 2026: Presented *On the inherent ambiguity of extreme event costs attributed to climate change* at the Cornell Weather Conference.
+September 2026: Presented "On the inherent ambiguity of extreme event costs attributed to climate change" at the Cornell Weather Conference.
 
 September 2026: The first paper from my side project on extreme event impact attribution has been accepted to AGU Advances: Match & Schaffer, and Fueglistaler: *On the inherent ambiguity of extreme event costs attributed to climate change*.
 
