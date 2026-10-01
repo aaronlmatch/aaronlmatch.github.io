@@ -5,11 +5,9 @@ permalink: /papers/
 author_profile: true
 ---
 
-**Accepted**
-
-**A. Match** & B. Schaffer (co-first authors), and S. Fueglistaler: *On the inherent ambiguity of extreme event costs attributed to climate change*. AGU Advances
-
 **2026**
+
+**A. Match** & B. Schaffer (co-first authors), and S. Fueglistaler: *On the inherent ambiguity of extreme event costs attributed to climate change*. AGU Advances, 7 (7), [[doi]](https://doi.org/10.1029/2026AV002546)
 
 Orbe, C., Ming, A., Chiodo, G., Prather, M., Diallo, M., Tang, Q., Chrysanthou, A., Naoe, H., Zhou, X., Thaler, I., Elsbury, D., Bednarz, E., Wright, J. S., **Match, A.**, Watanabe, S., Anstey, J., Kerzenmacher, T., Versick, S., Marchand, M., Li, F., and Keeble, J.: *Experimental protocol for phase 1 of the APARC QUOCA (QUasibiennial oscillation and Ozone Chemistry interactions in the Atmosphere) working group*, Geosci. Model Dev., 19, 773–794, [[doi]](https://doi.org/10.5194/gmd-19-773-2026).
 
