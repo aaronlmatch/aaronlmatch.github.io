@@ -28,6 +28,8 @@ My outreach feeds back onto my research. I have been working with Benjamin Schaf
 
 **Happenings**
 
+October 2026: Climate Up Close completed our tour of North Carolina, with 8 events in the Research Triangle from October 9-12. We reached 250 attendees during this, our 8th, tour.
+
 September 2026: The first paper from my side project on extreme event impact attribution has been published in AGU Advances: Match & Schaffer (co-first authors), and Fueglistaler, 2026: *On the inherent ambiguity of extreme event costs attributed to climate change*. [[link]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002546)
 
 September 2026: Presented "On the inherent ambiguity of extreme event costs attributed to climate change" at the Cornell Weather Conference.
